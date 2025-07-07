@@ -1,0 +1,3 @@
+# Manarion Market Watcher
+
+Welcome, adventurer, to the Manarion Market Watcher! In the ever-shifting landscapes and perilous dungeons of Manarion, understanding the ebb and flow of the market is as crucial as a well-honed blade or a potent spell. This tool is designed to be your indispensable guide, helping you navigate the intricate economy of our beloved ARPG. Whether you're a seasoned veteran looking to maximize your profits, a budding crafter seeking rare materials, or a new recruit trying to make sense of the bustling trade hubs, the Manarion Market Watcher will provide you with the insights you need to thrive. Prepare to delve into the depths of supply and demand, uncover hidden opportunities, and become a true master of commerce in the world of Manarion!
